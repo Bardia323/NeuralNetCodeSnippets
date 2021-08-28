@@ -1,5 +1,5 @@
 # NeuralNetCodeSnippets
-🧠 A set of useful code snippets for neural network applications
+🧠 A set of useful (for me) code snippets for neural network applications
 ## Making models in Keras
 ### Creating a CNN
 ```
